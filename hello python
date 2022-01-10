@@ -1,0 +1,8 @@
+x="Hello FYCS"
+print(x)
+"Hello FYCS"
+S=4
+T=8
+X=s+T
+print(X)
+12
