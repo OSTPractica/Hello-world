@@ -6,3 +6,6 @@ T=8
 X=s+T
 print(X)
 12
+Y="Good Morning"
+print(Y)
+"Good Morning"
